@@ -1706,26 +1706,5 @@ Otherwise check for a confirmation dialog on your device.
 
 于是删除该模拟器后重新下载安装一次，这次就正常了。
 
-adb 的非官方实现
-fb-adb - 适用于 Android 设备（适用于 Mac）的更好外壳。
-相关命令
-AAPT公司
-是
-垃圾场
-下午
-UI自动
-致谢
-感谢朋友们无私的分享与补充（排名不分先后）。
 
-zxning，linhua55，codeskyblue，seasonyuu，fan123199，zhEdward，0x8BADFOOD，keith666666，shawnlinboy，s-xq，lucky9322。
 
-参考链接
-Android 调试桥
-ADB Shell 命令
-logcat 命令行工具
-Android ADB命令大全
-adb 命令行的使用记录
-Android ADB命令大全（通过ADB命令查看wifi密码、MAC地址、设备信息、操作文件、查看文件、日志信息、卸载、启动和安装APK等）
-那些做Android开发必须知道的ADB命令
-亚行外壳顶部
-像高手一样使用ADB命令行（2）
